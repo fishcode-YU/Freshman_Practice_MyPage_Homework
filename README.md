@@ -1,1 +1,2 @@
 # Freshman_Practice_MyPage_Homework
+这个仓库专门用来存放我的大一新生实践作业：借助AI工具生成一个网页，并通过github的Page功能发布使其可以访问。
